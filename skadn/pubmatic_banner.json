@@ -6,11 +6,11 @@
         {
           "cid": "16530",
           "adm": "<div>
-    <a href="https://apps.apple.com/us/app/facebook/id284882215">
-        <img height="50" width="320" src="https://github.com/adlibsv/iab_om_sdk/blob/main/resources/iab-annual-leadership-meeting-2016-3.jpg">
-    </a>
-</div>
-<img border="0" src="https://github.com/adlibsv/iab_om_sdk/blob/main/resources/transparent_pixel.png" alt="" />",
+			<a href="https://apps.apple.com/us/app/facebook/id284882215">
+				<img height="50" width="320" src="https://raw.githubusercontent.com/adlibsv/iab_om_sdk/main/resources/iab-annual-leadership-meeting-2016-3.jpg"/>
+				</a>
+			</div>
+			<img border="0" src="https://github.com/adlibsv/iab_om_sdk/blob/main/resources/transparent_pixel.png" alt="" />",
           "id": "3BF5D148-3BC7-4AA2-BA5A-20E9062BDF66",
           "price": 1.443774,
           "impid": "1",
