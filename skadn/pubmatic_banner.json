@@ -1,0 +1,45 @@
+{
+  "id": "4E3FAA5D-BA5B-4F51-8FDB-7C8DBA1736A7",
+  "seatbid": [
+    {
+      "bid": [
+        {
+          "cid": "16530",
+          "adm": "<div>
+    <a href="https://apps.apple.com/us/app/facebook/id284882215">
+        <img height="50" width="320" src="https://github.com/adlibsv/iab_om_sdk/blob/main/resources/iab-annual-leadership-meeting-2016-3.jpg">
+    </a>
+</div>
+<img border="0" src="https://github.com/adlibsv/iab_om_sdk/blob/main/resources/transparent_pixel.png" alt="" />",
+          "id": "3BF5D148-3BC7-4AA2-BA5A-20E9062BDF66",
+          "price": 1.443774,
+          "impid": "1",
+          "iurl": "https://eu.a.30ads.com/test/imp?crid=87049648&lid=87054322&token=RTB&ct=html&ap=1300",
+          "h": 50,
+          "ext": {
+            "dspid": 466,
+            "advid": 740942,
+            "BidType": 0,
+            "skadn": {
+              "version": "2.0",
+              "network": "k674qkevps.skadnetwork",
+              "campaign": "1",
+              "sourceapp": "21312",
+              "itunesitem": "987654321",
+              "nonce": "12345678-1234-1234-1234-123456789012",
+              "timestamp": "1596695461984",
+              "signature": "MDUCGQDreBN5/xBN547tJeUdqcMSBtBA+Lk06b8CGFkjR1V56rh/H9osF8iripkuZApeDsZ+lQ=="
+            }
+          },
+          "crid": "410_87049648",
+          "w": 320,
+          "adomain": [
+            "etoro.com"
+          ]
+        }
+      ],
+      "seat": "25622"
+    }
+  ],
+  "cur": "USD"
+}
